@@ -31,8 +31,8 @@
 需要 macOS 13 或更新版本，以及 Xcode Command Line Tools。
 
 ```sh
-./run-tests.sh
-./build.sh
+zsh run-tests.sh
+zsh build.sh
 ```
 
 `build.sh` 会生成同时支持 Apple Silicon 和 Intel 的 `强提醒.app`。图标可用 `swift make-icon.swift AppIcon.png` 重新生成。
