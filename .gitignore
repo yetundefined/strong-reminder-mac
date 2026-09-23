@@ -1,0 +1,11 @@
+.DS_Store
+*.app/
+core-tests
+panel-tests
+login-tests
+*.dmg
+*.zip
+dmg-stage/
+source-stage/
+StrongReminderPreview.app/
+sample.txt
